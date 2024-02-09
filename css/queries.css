@@ -101,9 +101,9 @@
   }
 
   .main-nav-list {
-    align-items: center;
+    /* align-items: center; */
     flex-direction: column;
-    justify-content: center;
+    /* justify-content: center; */
   }
 
   .main-nav-list .main-nav-link:link,
