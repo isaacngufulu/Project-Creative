@@ -74,7 +74,7 @@
     top: 0;
     left: 0;
     background-color: rgb(92, 77, 66);
-    width: 80%;
+    width: 60%;
     height: 100vh;
     z-index: 99;
     display: flex;
@@ -103,9 +103,7 @@
   }
 
   .main-nav-list {
-    /* align-items: center; */
     flex-direction: column;
-    /* justify-content: center; */
   }
 
   .main-nav-list .main-nav-link:link,
