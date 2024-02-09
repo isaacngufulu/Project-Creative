@@ -78,6 +78,8 @@
     height: 100vh;
     z-index: 99;
     display: flex;
+    padding-top: 5rem;
+    padding-left: 2.4rem;
     transition: all 0.3s ease-in-out;
     transform: translateX(-100%);
     opacity: 0;
